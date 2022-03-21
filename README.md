@@ -1,5 +1,5 @@
-### Hi there 👋
-- Name: Natanael
+### <h2> Hi there 👋
+- Name:Natanael
 - surname: Robaina
 - 🌱 I’m currently studying: avionics
 
